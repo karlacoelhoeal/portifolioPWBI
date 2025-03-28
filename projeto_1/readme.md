@@ -1,6 +1,6 @@
 # Relatório de Vendas Globais - Power BI
 
-![Dashboard Principal](projeto_1/vendas-globais.jpg)
+![Dashboard Principal](vendas-globais.jpg)
 
 Este repositório contém um relatório do Power BI para análise de vendas.
 
