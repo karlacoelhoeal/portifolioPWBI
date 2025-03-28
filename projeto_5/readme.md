@@ -1,6 +1,6 @@
 # Relatório de Dados de Logística - Power BI
 
-![Dashboard Principal](vendas-globais.jpg)
+![Dashboard Principal](logistica.png)
 
 Este repositório contém um relatório do Power BI para análise de dados de logística.
 
