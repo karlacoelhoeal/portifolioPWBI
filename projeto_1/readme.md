@@ -5,9 +5,9 @@
 Este repositório contém um relatório do Power BI para análise de vendas.
 
 ## Arquivos
-- `Relatorio_Vendas.pbix` – Arquivo do Power BI.
-- `imagens/dashboard.png` – Captura de tela do dashboard principal.
-- `Relatorio_Vendas.pdf` – Versão exportada do relatório.
+- `vendas-globais.pbix` – Arquivo do Power BI.
+- `vendas-globais.jpg` – Captura de tela do dashboard principal.
+
 
 
 
